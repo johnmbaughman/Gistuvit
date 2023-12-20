@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GistuvitWPF", "GistuvitWPF\GistuvitWPF.csproj", "{69D152D0-68B1-4016-82B8-14FE711DF33C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gistuvit.Microsoft.Extensions.Hosting", "Gistuvit.Microsoft.Extensions.Hosting\Gistuvit.Microsoft.Extensions.Hosting.csproj", "{CA06CCD1-7F94-4E41-9A81-C9D1198A29EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69D152D0-68B1-4016-82B8-14FE711DF33C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69D152D0-68B1-4016-82B8-14FE711DF33C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69D152D0-68B1-4016-82B8-14FE711DF33C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69D152D0-68B1-4016-82B8-14FE711DF33C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA06CCD1-7F94-4E41-9A81-C9D1198A29EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA06CCD1-7F94-4E41-9A81-C9D1198A29EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA06CCD1-7F94-4E41-9A81-C9D1198A29EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA06CCD1-7F94-4E41-9A81-C9D1198A29EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39E7D81E-8D91-4A7E-BBAD-F2D53B9BA07A}
+	EndGlobalSection
+EndGlobal
